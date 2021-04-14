@@ -95,15 +95,15 @@ Here's why:
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
+<hr>
 
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* [Flutter](https://flutter.dev/)
+* [Radar SDK](https://radar.io/)
 
-
+<hr>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -149,8 +149,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
+See the [open issues](https://github.com/AlKun25/TreasureHunt/issues) for a list of proposed features (and known issues).
+<hr>
 
 
 <!-- CONTRIBUTING -->
@@ -163,7 +163,7 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
+<hr>
 
 
 <!-- LICENSE -->
@@ -171,12 +171,12 @@ Contributions are what make the open source community such an amazing place to b
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
+<hr>
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@MundadaM](https://twitter.com/MundadaM) - [mail](mailto://mundadakunal25@gmail.com)
+Kunal Mundada - [Twitter](https://twitter.com/MundadaM) - [mail](mailto://mundadakunal25@gmail.com)
 
 Project Link: [https://github.com/AlKun25/TreasureHunt](https://github.com/AlKun25/TreasureHunt)
 <hr>
