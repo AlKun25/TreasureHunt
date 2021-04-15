@@ -1,7 +1,7 @@
 # TreasureHunt
 An attempt at combining Treasure Hunt with AR technology
 <br>
-Ignore the README for now
+**Ignore the README for now**
 
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
