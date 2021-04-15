@@ -194,7 +194,7 @@ Project Link: [https://github.com/AlKun25/TreasureHunt](https://github.com/AlKun
 [contributors-url]: https://github.com/AlKun25/TreasureHunt/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/AlKun25/TreasureHunt?style=for-the-badge
 [forks-url]: https://github.com/AlKun25/TreasureHunt/network/members
-[stars-shield]: https://img.shields.io/github/stars/AlKun25/TreasureHunt?style=for-the-badge
+[stars-shield]:https://img.shields.io/github/stars/AlKun25/TreasureHunt?style=for-the-badge
 [stars-url]: https://github.com/AlKun25/TreasureHunt/stargazers
 [issues-shield]: https://img.shields.io/github/issues/AlKun25/TreasureHunt?color=yellow&style=for-the-badge
 [issues-url]: https://github.com/AlKun25/TreasureHunt
